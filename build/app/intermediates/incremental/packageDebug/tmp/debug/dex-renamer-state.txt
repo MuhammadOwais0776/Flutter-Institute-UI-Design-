@@ -1,0 +1,4 @@
+#Thu Dec 10 03:14:16 PST 2020
+base.0=C\:\\Users\\MuhammadOwais\\Desktop\\Project\\adobe_test\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
