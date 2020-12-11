@@ -1,13 +1,12 @@
 /*
 *  colors.dart
-*  AdobeTest
+*  
 *
 *  Created by Muhammad Owais.
 *  Copyright © 2018 Innova8ors. All rights reserved.
     */
 
 import 'dart:ui';
-
 
 class AppColors {
   static const Color primaryBackground = Color.fromARGB(255, 99, 88, 145);
